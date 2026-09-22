@@ -1,4 +1,4 @@
-# speedometer_vingage — hardware overview & pinout
+# speedometer_vintage — hardware overview & pinout
 
 ## Platform
 - **MCU board:** Arduino Nano
