@@ -1,4 +1,4 @@
-# speedometer_akpp — hardware overview & pinout
+# speedometer_vingage — hardware overview & pinout
 
 ## Platform
 - **MCU board:** Arduino Nano
